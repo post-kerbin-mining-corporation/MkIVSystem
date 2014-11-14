@@ -2,6 +2,10 @@ v0.0.4
 ------
 - Prerelease 3
 - Cargo bay doors can no longer have parts attached to them
+- Remodeled and textured Tail Cargo Bay
+- Added long and short tail/nose adapters
+- Added Drone Core
+- Added Crew Cabin
 
 v0.0.3
 ------
