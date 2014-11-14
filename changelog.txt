@@ -1,3 +1,18 @@
+v0.0.4
+------
+- Prerelease 3
+- Cargo bay doors can no longer have parts attached to them
+
+v0.0.3
+------
+- Prerelease 2
+- Increased the breaking tolerance of all fuselage parts to bring them in line with comparably sized stock parts
+- MK4 Utility Fuselage renamed to Mk4 Service Compartment
+
+v0.0.3
+------
+- Prerelease 1
+
 v0.0.2
 ------
 - Test release 2
