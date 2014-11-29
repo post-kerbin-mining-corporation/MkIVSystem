@@ -1,3 +1,15 @@
+v0.0.5
+------
+- RC1
+- Added IVAs
+- Fixed FAR configs, added support for NEAR
+- Added CLS configs
+- Added two wing engine pods
+- Added SCIMITAR high-thrust multimode engine
+- Adjusted lifting body lift and AoA drag accross the board
+- Added small amount of LFO to Cargo Bay and Cargo Tail
+- Disabled attachment on moving components of Cargo Tail
+
 v0.0.4
 ------
 - Prerelease 3
