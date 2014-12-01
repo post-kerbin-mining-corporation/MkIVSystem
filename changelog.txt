@@ -1,13 +1,20 @@
+v0.1.0
+------
+- Added basic placeholder IVA for Mk4 Crew Cabin
+- Fixed an alignment issue with the Mk4 Cockpit IVA
+- Added Heavy Structural Intake, Heavy Structural Intake Mount
+- Added specular maps to Dual and Triple Engine Pods
+
 v0.0.5
 ------
 - RC1
-- Added IVAs
-- Fixed FAR configs, added support for NEAR
+- Added IVA for Mk4 Cockpit
 - Added CLS configs
 - Added two wing engine pods
 - Added SCIMITAR high-thrust multimode engine
 - Adjusted lifting body lift and AoA drag accross the board
 - Added small amount of LFO to Cargo Bay and Cargo Tail
+- Fixed FAR config (I think), added support for NEAR
 - Disabled attachment on moving components of Cargo Tail
 
 v0.0.4
