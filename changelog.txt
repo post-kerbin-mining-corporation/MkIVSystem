@@ -4,6 +4,7 @@ v0.1.0
 - Fixed an alignment issue with the Mk4 Cockpit IVA
 - Added Heavy Structural Intake, Heavy Structural Intake Mount
 - Added specular maps to Dual and Triple Engine Pods
+- Adjusted some costs and tech tree placements
 
 v0.0.5
 ------
