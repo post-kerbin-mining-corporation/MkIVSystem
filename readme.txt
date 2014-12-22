@@ -1,8 +1,8 @@
 ============================
-MkIV Spaceplane Parts v0.0.5
+MkIV Spaceplane Parts v1.1.2
 ============================
 
-This is a parts pack for Kerbal Space Program v0.25, providing a new stockalike spaceplane fuselage system that is designed for 2.5m parts
+This is a parts pack for Kerbal Space Program v0.25, providing a new stockalike spaceplane fuselage system that is designed for hauling 2.5m parts
 
 ============
 INSTALLATION
