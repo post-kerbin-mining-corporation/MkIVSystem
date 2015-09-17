@@ -1,3 +1,30 @@
+v2.0.0
+-------
+- Remodel and retexture of all 1.x generation parts parts. Notable changes:
+-- Increase in size of approximately 25% for all parts
+-- Mk4 Cockpit and most adapters now have 1.25m attach nodes on each side to mount new shoulder pieces or standard 1.25m parts
+-- Adapters have been reworked to different sizes due to size increases
+-- Fuselages and cargo bays are now available in 1x, 2x and 4x sizes, with lengths matching Mk3 parts
+-- Most fuel-containing parts can now switch fuels in the VAB (usually between LF, LF/O, LF/MP and LF/O/MP)
+-- Service bay has been reworked, now carries less RCS fuel, but has openable hatches and is better for storage
+-- Many parts are now hollow to work better with cargo stowage
+-- Yellowjacket VTOL engine now has shroud, opens and closes when active/shutdown
+- New Parts:
+-- KE-90 Turbofan Engine: 2.5m basic jet engine
+-- KE-4 Turbojet Engine: 2.5m high performance engine
+-- B.R.O.A.D.S.W.O.R.D Multimode Engine: 2.5m multimodal engine
+-- Advanced Precooler
+-- Heavy Engine Nacelle
+-- Heavy Engine Nacelle XL
+-- Large Turbofan Intake
+-- Advanced Shock Intake
+-- Mk4 Aerodynamic Shoulder
+-- Mk4 Shoulder Intake
+-- Mk4 Orbital Maneuvering Shoulder
+-- Mk4 Ventral Cargo Bays (3 sizes)
+-- Heavy RCS Blister
+
+
 v1.2.0
 ------
 - Cargo Bays and the Docking Nosecone are now passable when using CLS
