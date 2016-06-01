@@ -1,3 +1,11 @@
+v2.2.0
+------
+- KSP 1.1.2 update
+- Upgraded bundled ModuleManager
+- Upgraded bundled Firespitter
+- Switched from BDAnimationModules to DeployableEngines (WIP)
+- Switched from IFS to B9PartSwitch
+
 v2.1.1
 ------
 - Fixed incorrect bundled version of BDAnimationModules
