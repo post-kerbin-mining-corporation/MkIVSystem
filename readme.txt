@@ -2,7 +2,7 @@
 MkIV Spaceplane Parts v2.2.0
 =============================
 
-This is a parts pack for Kerbal Space Program v1.05, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
+This is a parts pack for Kerbal Space Program v1.1.3, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
 
 ============
 INSTALLATION
@@ -27,9 +27,5 @@ The contents of this pack are distributed under a Creative Commons Attribution-N
 You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license. 
 
 This mod bundles three plugins:
-
-BDAnimationModules (v0.6.1) is distributed under its own licence (CC-BY-SA). Please find source code and more details at https://github.com/BahamutoD/BDAnimationModules/releases/
-
-Interstellar Fuel Switch is distributed under its own licence (CC-NC-SA). Please find source code and more details at https://github.com/sswelm/KSPInterstellar/tree/master/FuelSwitch
 
 Firespitter is distributed under its own licence. Please find source code and more details at http://snjo.github.io/
