@@ -1,7 +1,8 @@
 v2.2.1
 ------
 - Fixed fuel capacity for basic Mk4 fuselages
-
+- Fixed CTT patch assigning some parts to nonexistant nodes
+- Fixed an issue where multiple blade rotators would conflict on lift fans
 
 v2.2.0
 ------
