@@ -13,6 +13,8 @@ v2.2.2
 - Fixed some typos in some part descriptions
 - Moved all cargo bay parts to the Payload category
 - Moved all docking parts to the Coupling category
+- Reexported all engine FX with correct layering to fix interaction with atmospheric effects
+- Increased breaking force/torque of all 2.5m nacelles
 
 v2.2.1
 ------
