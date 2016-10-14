@@ -2,6 +2,17 @@ v2.2.2
 ------
 - KSP 1.2
 - Dependency update
+- Electric drive fans now function below 0.1 atmospheres
+- Added 1.2 features to parts
+-- Thunderhawk cockpit can now function as a control point
+-- All RCS blocks converted to ModuleRCSFX, adds sound and new FX
+- Fixed ARV-50-2 Heavy Symmetric RCS Blister not showing up in career
+- Fixed missing cross sectional profile for Mk4 Crew Cabin
+- Added missing part search tags to all parts
+- Corrected instances of inconsistent manufacturer names
+- Fixed some typos in some part descriptions
+- Moved all cargo bay parts to the Payload category
+- Moved all docking parts to the Coupling category
 
 v2.2.1
 ------
@@ -50,7 +61,7 @@ v2.1.0
 - Respecced and remodeled Arcadia turbojet as a medium-performance jet with thrust reversers
 - Added Mk4 Vulture cockpit - pointy cockpit with integrated docking port
 - Added CUTLASS: 2.5m high-efficiency RAPIER-style engine
-- Added Valkyrie turboramjet: high performance high altitude 2.5m engine 
+- Added Valkyrie turboramjet: high performance high altitude 2.5m engine
 - Added Kerboshov D27 Propfan engine (efficient heavy propeller engine)
 - Added APR-4000 Buzzsaw Turboprop engine (powerful heavy propeller engine)
 - Added 3 lengths of basic 2.5m liquid fuel tanks (LF, LF/O, structural)
