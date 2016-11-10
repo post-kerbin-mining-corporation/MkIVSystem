@@ -3,7 +3,7 @@ v2.3.1
 - Marked for KSP 1.2.1
 - Updated CRP to 0.6.2
 - Updated MM to 2.7.3
-
+- Cabin lights are now tied to the Lights action group
 
 v2.3.0
 ------
