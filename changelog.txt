@@ -1,3 +1,11 @@
+v2.3.1
+------
+- Marked for KSP 1.2.1
+- Updated CRP to 0.6.3
+- Updated MM to 2.7.4
+- Cabin lights are now tied to the Lights action group
+- Increased collection distance for EVA science for both cockpits
+
 v2.3.0
 ------
 - KSP 1.2
