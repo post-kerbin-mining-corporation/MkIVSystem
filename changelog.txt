@@ -1,6 +1,7 @@
 v2.3.3
 ------
-- Marked for KSP 1.2.1
+- Fixed cargo bay module occluding the wrong nodes for all regular/ventral bays
+- Added patch to add cryogenic LH2 and LH2/O fuel storage modes to certain parts (fuselages, tails and adapters)
 
 v2.3.2
 ------
