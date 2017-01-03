@@ -1,5 +1,13 @@
+v2.3.4
+------
+- Marked for KSP 1.2.2
+- Updated CRP to 0.6.4
+- Updated MM to 2.7.5
+- Updated B9PartSwitch to 1.5.3
+
 v2.3.3
 ------
+- Fixed problems with Heavy RCS Blister thrust vectors
 - Fixed cargo bay module occluding the wrong nodes for all regular/ventral bays
 - Added patch to add cryogenic LH2 and LH2/O fuel storage modes to certain parts (fuselages, tails and adapters)
 
