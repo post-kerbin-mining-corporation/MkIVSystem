@@ -8,6 +8,7 @@ v2.3.4
 - Updated DeployableEngines to 2.1.0
 - Fixed node size issue in SCIMITAR cfg
 - Some tweaks to Crew Cabin drag parameters
+- Fixed a MM path throwing errors on startup
 
 v2.3.3
 ------
