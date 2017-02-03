@@ -1,3 +1,11 @@
+v2.3.5
+------
+- New drag cube for Mk4 Shoulder Intake
+- Fix for cargo bay node occlusion
+- Fix for large cargo bay's occlusion testing spheres
+- Reduced air intake ratio of lift fans in LF mode (22 -> 14)
+- Reduced all fuselage body lift values by 33%
+
 v2.3.4
 ------
 - Marked for KSP 1.2.2
