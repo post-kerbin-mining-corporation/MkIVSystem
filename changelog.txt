@@ -1,5 +1,6 @@
 v2.3.5
 ------
+- Updated B9Partswitch to 1.7.1
 - New drag cube for Mk4 Shoulder Intake
 - Fix for cargo bay node occlusion
 - Fix for large cargo bay's occlusion testing spheres
