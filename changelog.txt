@@ -7,9 +7,11 @@ v2.3.5
 - New drag cube for Mk4 Shoulder Intake
 - Fix for cargo bay node occlusion (requires rebuild of your cargo bays!)
 - Fix for large cargo bay's occlusion testing spheres
-- Inverted animation directions for cargo bays; now open at start. 
+- Inverted animation directions for cargo bays; now open at start.
 - Reduced air intake ratio of lift fans in LF mode (22 -> 14)
 - Reduced all fuselage body lift values by 33%
+- Fixed incorrect node for the AE-4 Turboramjet
+- Fixed incorrect velocity curve for Arcadia-593 Turbofan thrust reverser
 
 v2.3.4
 ------
