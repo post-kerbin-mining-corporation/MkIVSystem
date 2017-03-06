@@ -1,12 +1,12 @@
 {
     "NAME":"MarkIVSystem",
-    "URL":"https://github.com/ChrisAdderley/MkIVSystem/blob/master/GameData/MarkIVSystem/Versioning/MarkIV.version",
+    "URL":"https://raw.githubusercontent.com/ChrisAdderley/MkIVSystem/master/GameData/MarkIVSystem/Versioning/MarkIV.version",
     "DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/117766",
     "VERSION":
     {
         "MAJOR":2,
         "MINOR":3,
-        "PATCH":4,
+        "PATCH":5,
         "BUILD":0
     },
     "KSP_VERSION":
