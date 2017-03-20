@@ -1,3 +1,7 @@
+v2.3.7
+------
+- Fixed AVC link leading to the wrong place
+
 v2.3.6
 ------
 - Fixed large cargo bay/drop bay counting its forward area as closed when opened as vice versa
