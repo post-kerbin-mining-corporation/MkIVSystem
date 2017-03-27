@@ -1,5 +1,6 @@
 v2.3.7
 ------
+- Fixed small ventral cargo bay having too much drag
 - Fixed AVC link leading to the wrong place
 
 v2.3.6
