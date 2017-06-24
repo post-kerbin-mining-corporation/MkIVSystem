@@ -2,9 +2,15 @@ v.2.4.0
 -------
 - KSP 1.3
 - Updated MM to 2.8.0
-- Updated B9PartSwitch to 1.8.0
+- Updated B9PartSwitch to 1.8.1
 - Updated CRP to 0.7.1
 - Updated MiniAVC to 1.0.3.3
+- Converted all strings to KSP 1.3 localization methods
+- Updated CryoTanks patch with new mass ratios: LH2 and LH2O tanks are 1.15x as heavy as their rocket variants (as with stock)
+- Deprecated Firespitter Core in favour of KerbalActuators for all propeller-type engines:
+-- Better handling of forward/reverse thrust for various turboprops
+-- Better performance
+-- More predictable behaviour
 
 v2.3.7
 ------
