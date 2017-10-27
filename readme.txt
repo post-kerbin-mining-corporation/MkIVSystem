@@ -9,10 +9,12 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (1.8.1)
-- Community Resource Pack (0.7.1)
-- ModuleManager (2.8.0)
-- KerbalActuators
+- B9PartSwitch (1.10.0)
+- Community Resource Pack (0.8.0)
+- ModuleManager (2.8.1)
+- KerbalActuators (1.0.6.1)
+- NearFutureProps (0.2.0)
+- DeployableEngines (0.1.0)
 
 Optional
 - Community Tech Tree (v2.2+)
@@ -45,4 +47,4 @@ The Community Resource Pack by RoverDude is also distributed under its own licen
 
 B9PartSwitch by blowfish is also distributed under its own license.
 
-Firespitter is distributed under its own licence. Please find source code and more details at http://snjo.github.io/
+KerbalActuators is distributed under its own licence. Please find source code and more details at http://snjo.github.io/https://github.com/Angel-125/KerbalActuators
