@@ -1,3 +1,11 @@
+v.2.4.1
+-------
+- Fixed an issue with localization of multimode engines, worked around KSP issue for KER fix
+- Some tweaks to IVAs
+- Added RPM support back in
+-- Provided by Dragon01
+-- RPM support requires the installation of RPM and ASET props
+
 v.2.4.0
 -------
 - KSP 1.3.1

@@ -18,7 +18,7 @@ Required:
 
 Optional
 - Community Tech Tree (v2.2+)
-
+- Raster Prop Monitor(v0.29.2) plus ASET Props (1.4)
 
 ============
 INSTALLATION
