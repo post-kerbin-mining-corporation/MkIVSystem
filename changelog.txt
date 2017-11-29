@@ -1,6 +1,10 @@
 v.2.4.1
 -------
+- Updated B9PartSwitch to 2.0.0
+- Updated NFProps to 0.2.1
 - Fixed an issue with localization of multimode engines, worked around KSP issue for KER fix
+- Fixed flipped normal map on 3.75m lift fan
+- Fixed bottom stack node of SCIMITAR
 - Some tweaks to IVAs
 - Added RPM support back in
 -- Provided by Dragon01
