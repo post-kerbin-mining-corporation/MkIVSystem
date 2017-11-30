@@ -9,7 +9,7 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.0.0)
+- B9PartSwitch (2.1.0)
 - Community Resource Pack (0.8.0)
 - ModuleManager (2.8.1)
 - KerbalActuators (1.0.6.1)
