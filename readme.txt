@@ -1,20 +1,17 @@
 ============================
-MkIV Spaceplane Parts v2.4.1
+MkIV Spaceplane Parts v3.0.0
 ============================
 
-This is a parts pack for Kerbal Space Program v1.2.2, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
+This is a parts pack for Kerbal Space Program v1.4.5, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
 
 ============
 DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.1.0)
-- Community Resource Pack (0.8.0)
-- ModuleManager (2.8.1)
-- KerbalActuators (1.0.6.1)
-- NearFutureProps (0.2.1)
-- DeployableEngines (0.1.0)
+- B9PartSwitch (2.3.3)
+- ModuleManager (3.0.7)
+- NearFutureProps (0.3.4)
 
 Optional
 - Community Tech Tree (v2.2+)
@@ -43,8 +40,4 @@ The art assets in this pack (all models and textures) are distributed under an A
 
 ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found here: http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607
 
-The Community Resource Pack by RoverDude is also distributed under its own license.
-
 B9PartSwitch by blowfish is also distributed under its own license.
-
-KerbalActuators is distributed under its own licence. Please find source code and more details at http://snjo.github.io/https://github.com/Angel-125/KerbalActuators
