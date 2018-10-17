@@ -1,3 +1,11 @@
+v.3.0.1
+-------
+- KSP 1.5.0
+- Widened valid version range to up to KSP 1.5.99
+- Updated B9PartSwitch to 2.4.3
+- Updated ModuleManager to 3.1.0
+- Updated NF Props to 0.3.5
+
 v.3.0.0
 -------
 - KSP 1.4.5
