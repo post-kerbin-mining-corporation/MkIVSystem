@@ -1,17 +1,17 @@
 ============================
-MkIV Spaceplane Parts v3.0.2
+MkIV Spaceplane Parts v3.0.3
 ============================
 
-This is a parts pack for Kerbal Space Program v1.4.5, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
+This is a parts pack for Kerbal Space Program providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
 
 ============
 DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.4.5)
-- ModuleManager (3.1.0)
-- NearFutureProps (0.3.5)
+- B9PartSwitch (2.5.0)
+- ModuleManager (3.1.3)
+- NearFutureProps (0.5.0)
 
 Optional
 - Community Tech Tree (v2.2+)
@@ -23,21 +23,25 @@ INSTALLATION
 
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, please do so. REMOVE ANY OLD VERSIONS OF THE MARK IV SYSTEM BEFORE INSTALLING.
 
-============
-KSP-MINI-AVC
-============
+=======
+KSP-AVC
+=======
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
-For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+This mod is compatible with KSP-AVC version checking. For a comprehensive version checking experience, please download the appropriate plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 =========
 LICENSING
 =========
 
-The cfgs and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
-The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
+The art assets in this pack (all .dds, .png and .mu files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author.
 
-ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found here: http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607
+Any bundled mods are distributed under their own licenses:
+- ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found here: http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607
+- B9PartSwitch by blowfish is also distributed under its own license. Please find source and more details at https://github.com/blowfishpro/B9PartSwitch
 
-B9PartSwitch by blowfish is also distributed under its own license.
+Everything else is distributed under the MIT license.
+
+Copyright (c) 2019 Chris Adderley
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
