@@ -11,8 +11,7 @@ A mod pack for Kerbal Space Program, delivering a high quality expansion to orbi
 
 ## Features
 
-* **Large Spaceplane Fuselage:**  
-
+This mod's single main features is a large spaceplane fuselage, designed to fit 2.5m and 3.75m parts. It includes fuel tanks, cargo bays, cockpits, passenger bays and adapters.
 
 ## Dependencies
 
