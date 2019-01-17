@@ -41,3 +41,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Specific items for packaging scripts
+*.pyc
+.idea/
+build/
+tmp/
+deploy/
+build_scripts/version.txt
+build_scripts/changelog.md
