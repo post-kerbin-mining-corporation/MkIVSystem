@@ -1,5 +1,5 @@
 ============================
-MkIV Spaceplane Parts v3.0.3
+MkIV Spaceplane Parts v3.0.4
 ============================
 
 This is a parts pack for Kerbal Space Program providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
@@ -28,6 +28,12 @@ KSP-AVC
 =======
 
 This mod is compatible with KSP-AVC version checking. For a comprehensive version checking experience, please download the appropriate plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+
+============
+LOCALIZATION
+============
+
+This mod includes localization support, and currently has no translations.
 
 =========
 LICENSING

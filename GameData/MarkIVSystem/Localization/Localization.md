@@ -25,5 +25,3 @@ There are some characters that should not be translated into another language an
 3. HTML Tags like &lt;b&gt;...&lt;/b&gt;, &lt;i&gt;...&lt;/i&gt; or similar  
 
 ## Translation Credits
-
-* fitiales (Spanish)
