@@ -43,6 +43,10 @@ Note that the vast majority of this compatibility is community-sourced and not m
 
 I certainly accept pull requests. Please target all such things to the `dev` branch though!
 
+## Translations
+
+For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/MkIVSystem/blob/master/GameData/MkIVSystem/Localization/Localization.md)
+
 ## Licensing
 
 The art assets in this pack (all .dds, .png and .mu files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author.
