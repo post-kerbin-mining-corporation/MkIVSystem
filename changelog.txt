@@ -1,6 +1,6 @@
 v.3.0.4
 -------
-- 
+- Added bulkhead profiles to missing parts (thanks Streetwind)
 
 v.3.0.3
 -------
