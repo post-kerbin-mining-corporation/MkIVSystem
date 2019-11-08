@@ -1,3 +1,11 @@
+v.3.1.0
+-------
+- KSP 1.8.x
+- Updated ModuleManager to 4.1.0
+- Updated NF Props to 0.6.1
+- Updated B9PartSwitch to 2.12.1
+- Updated some MM patch passes
+
 v.3.0.5
 -------
 - KSP 1.7.x
