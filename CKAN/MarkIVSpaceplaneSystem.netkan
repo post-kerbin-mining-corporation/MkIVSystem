@@ -1,0 +1,34 @@
+{
+    "spec_version"   : "v1.4",
+    "identifier"     : "MarkIVSpaceplaneSystem",
+    "$kref"          : "#/ckan/spacedock/809",
+    "$vref"          : "#/ckan/ksp-avc/MarkIVSystem.version",
+    "release_status" : "stable",
+    "license"        : "restricted",
+    "name"                : "Mark IV Spaceplane System",
+    "abstract"            : "Large fuselage system for spaceplanes. Based on an iconic 60s TV show ",
+    "author"              : "Nertea",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91713-16x-mark-iv-spaceplane-system-january-21-2019/",
+      "repository": "https://github.com/ChrisAdderley/MarkIVSystem"
+    },
+    "depends": [
+        { "name" : "ModuleManager" },
+        { "name" : "B9PartSwitch" },
+        { "name" : "NearFutureProps" }
+    ],
+    "suggests": [
+        { "name" : "CommunityTechTree" },
+        { "name" : "NearFutureAeronautics" },
+    ],
+    "supports": [
+        { "name" : "ConnectedLivingSpace" },
+        { "name" : "FerramAerospaceResearch" }
+    ],
+    "install": [
+        {
+            "find"       : "MarkIVSystem",
+            "install_to" : "GameData"
+        }
+    ]
+}
