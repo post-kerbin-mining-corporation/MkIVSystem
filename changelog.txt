@@ -1,3 +1,12 @@
+v.3.1.2
+-------
+- KSP 1.10.x
+- Updated ModuleManager to 4.1.4
+- Updated NF Props to 0.6.3
+- Updated B9PartSwitch to 2.17.0
+- Chinese localization (tinygrox)
+- DRE compatibility (dlrk4)
+
 v.3.1.1
 -------
 - KSP 1.9.x
