@@ -1,3 +1,9 @@
+v.3.2.0
+-------
+- KSP 1.11.x
+- Updated NF Props to 0.6.4
+- Added inventories and cargo flags
+
 v.3.1.2
 -------
 - KSP 1.10.x

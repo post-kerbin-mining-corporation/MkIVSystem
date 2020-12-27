@@ -1,5 +1,5 @@
 ============================
-MkIV Spaceplane Parts v3.1.2
+MkIV Spaceplane Parts v3.2.0
 ============================
 
 This is a parts pack for Kerbal Space Program providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.
@@ -11,7 +11,7 @@ DEPENDENCIES
 Required:
 - B9PartSwitch (2.17.0)
 - ModuleManager (4.1.4)
-- NearFutureProps (0.6.3)
+- NearFutureProps (0.6.4)
 
 Optional
 - Community Tech Tree (v2.2+)
