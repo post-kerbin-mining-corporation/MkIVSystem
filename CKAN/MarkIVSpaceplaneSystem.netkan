@@ -7,10 +7,10 @@
     "license"        : "restricted",
     "name"                : "Mark IV Spaceplane System",
     "abstract"            : "Large fuselage system for spaceplanes. Based on an iconic 60s TV show ",
-    "author"              : "Nertea",
+    "author"              : "Nertea (Chris Adderley)",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91713-16x-mark-iv-spaceplane-system-january-21-2019/",
-      "repository": "https://github.com/ChrisAdderley/MarkIVSystem"
+      "repository": "https://github.com/post-kerbin-mining-corporation/MkIVSystem"
     },
     "depends": [
         { "name" : "ModuleManager" },
