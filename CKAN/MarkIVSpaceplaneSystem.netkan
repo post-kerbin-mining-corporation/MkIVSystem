@@ -19,7 +19,7 @@
     ],
     "suggests": [
         { "name" : "CommunityTechTree" },
-        { "name" : "NearFutureAeronautics" },
+        { "name" : "NearFutureAeronautics" }
     ],
     "supports": [
         { "name" : "ConnectedLivingSpace" },
