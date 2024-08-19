@@ -1,3 +1,16 @@
+v.3.2.1
+-------
+- KSP 1.12.5
+- Updated ModuleManager to 4.2.3
+- Updated NF Props to 0.7.2
+- Updated B9PartSwitch to 2.20.0
+- The Mk4 Crew Cabin should now shield its contents from airstreams
+- The Mk4 cargo tail should now shield its contentes from airstreams when closed vs open
+- Fixed an issue with Mk4 cargo tail localization
+- Fixed an error in an old DRE patch
+- Tailpieces can now have cryo storage 
+- Support VABOrganizer
+
 v.3.2.0
 -------
 - KSP 1.11.x
